@@ -4,8 +4,7 @@
 Overview: This HR Analytics Dashboard is designed to provide comprehensive insights into employee attrition, giving an in-depth view of key factors influencing attrition rates within an organization. The dashboard focuses on multiple dimensions, such as departments, age groups, education fields, job roles, monthly income, and years of experience, to help stakeholders make informed decisions regarding talent retention.
 
 
-![Hr Attrition]
-(https://github.com/user-attachments/assets/251df0e9-f130-4196-912b-c94dbddfb869)
+![Hr Attrition](https://github.com/user-attachments/assets/10c64d7c-808c-4585-8182-1c9b9af87687)
 
 
 
